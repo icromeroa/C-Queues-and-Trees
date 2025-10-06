@@ -1,4 +1,12 @@
-/* Ejercicio 1: Lista enlazada de enteros - Insertar al inicio */
+
+
+
+
+
+/
+
+*
+ Ejercicio 1: Lista enlazada de enteros - Insertar al inicio */
 #include <stdio.h>
 #include <stdlib.h>
 
